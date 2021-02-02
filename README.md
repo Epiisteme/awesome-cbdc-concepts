@@ -9,3 +9,6 @@ Awesome Archives of Center Bank Digital Currencies
 
 ## CBDC and Green Finance
 - https://www.finextra.com/newsarticle/37331/bis-innovation-hub-targets-cbdcs-and-green-finance-in-2021
+
+## CBDC and Monetary Policy
+- https://www.bankofcanada.ca/2020/02/staff-analytical-note-2020-4/
