@@ -12,3 +12,6 @@ Awesome Archives of Center Bank Digital Currencies
 
 ## CBDC and Monetary Policy
 - https://www.bankofcanada.ca/2020/02/staff-analytical-note-2020-4/
+
+## CBDC Architecture
+- https://voxeu.org/article/cbdc-architectures-financial-system-and-central-bank-future
